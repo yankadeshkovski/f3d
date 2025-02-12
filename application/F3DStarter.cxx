@@ -1782,3 +1782,5 @@ void F3DStarter::AddCommands()
 #endif
   interactor.addCommand("exit", [&](const std::vector<std::string>&) { interactor.stop(); });
 }
+
+// hello ian
